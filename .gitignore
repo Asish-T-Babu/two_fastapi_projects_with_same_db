@@ -2,5 +2,3 @@ env
 app1/__pycache__
 app2/__pycache__
 migrations/versions/__pycache__
-migrations/versions/
-!migrations/versions/.keep
